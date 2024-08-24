@@ -5,7 +5,7 @@
 </div>
 
 <pre>
-👨‍💻 Python, Golang and Kotlin beginner
+👨‍💻 Python and Kotlin beginner
 💝 Game • Code • Music • Anime
 </pre>
 
