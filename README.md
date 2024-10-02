@@ -7,7 +7,7 @@
 🌑 My name is Max, i'm Python beginner
 ```
 
-<h2 align="center">🧑‍💻 Contact with me:</h2>
+<h2 align="center">👩‍💻 Contact with me:</h2>
 
 🔗 **Telegram:** [@ancemy](t.me/ancemy)<br>
 💌 **Mail:** [yeahcybercat@gmail.com](mailto:yeahcybercat@gmail.com)
