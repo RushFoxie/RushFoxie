@@ -4,7 +4,7 @@
 <h1 align="center">👋🏻 Hello!</h1>
 
 ```text
-🌑 My name is Max, i'm Python beginner
+🌑 My name is Andrey, i'm Python beginner
 ```
 
 <h2 align="center">👩‍💻 Contact with me:</h2>
